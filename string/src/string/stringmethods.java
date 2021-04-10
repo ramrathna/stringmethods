@@ -13,19 +13,19 @@ public class stringmethods {
 		
 		System.out.println("Example for String compare");
 		String s1="naveen";
-		String s2=" ";
-		String s3="kumar";
-		String s4="Ravi";
+		String s2="naveen";
+		String s3="zmar";
+		String s4="Rumar";
 		String s5=null;
 		System.out.println(s1.compareTo(s2));
 		System.out.println(s3.compareTo(s4));
-		System.out.println(s3.compareTo(s5));
-		System.out.println(s2.compareTo(s5));
-		System.out.println("Example for String replace");
+		//System.out.println(s3.compareTo(s5));
+		//System.out.println(s2.compareTo(s5));
+		/*System.out.println("Example for String replace");
 		String replace=name.replace("Vee", "Zee");
 		System.out.println(replace);
 		String replace1=name.replace('o', 'i');
-		System.out.println(replace1);
+		System.out.println(replace1);*/
 		
 	}
 
